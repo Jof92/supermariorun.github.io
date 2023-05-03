@@ -16,8 +16,7 @@ Essa aplicação é uma homenagem divertida e nostálgica a esse personagem tão
 
 ![portfolio image](https://github.com/Jof92/supermariorun.github.io/blob/main/img/super%20mario%20run.gif) <br><br><br>
  
-## <a href="https://github.com/Jof92/supermariorun.github.io/blob/main/super%20mario%20run.gif"> Acesse a página do Super Mario Run aqui</a> <br><br><br>
-
+## <a href=""> Acesse a página do Alkablog aqui</a> <br><br><br>
 </div> 
 <div align="center">
 <a href="https://jof92.github.io/jofPortfolio.github.io/switch_index.html"> Acess my Portfolio's page here </a> <br><br><br>
