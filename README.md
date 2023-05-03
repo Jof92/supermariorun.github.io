@@ -14,9 +14,9 @@ Essa aplicação é uma homenagem divertida e nostálgica a esse personagem tão
 
 <div align="center">
 
-![portfolio image](https://github.com/Jof92/supermariorun.github.io/blob/main/img/super%20mario%20run.gif) <br><br><br>
+![portfolio image](https://github.com/Jof92/supermariorun.github.io/blob/main/super%20mario%20run2.gif) <br><br><br>
  
-## <a href="https://github.com/Jof92/supermariorun.github.io/blob/main/super%20mario%20run2.gif"> Acesse o jogo aqui</a> <br><br><br>
+## <a href="https://github.com/Jof92/supermariorun.github.io/blob/main/index.html"> Acesse o jogo aqui</a> <br><br><br>
 </div> 
 <div align="center">
 <a href="https://jof92.github.io/jofPortfolio.github.io/switch_index.html"> Acess my Portfolio's page here </a> <br><br><br>
