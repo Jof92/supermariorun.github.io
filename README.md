@@ -1,5 +1,5 @@
 # Super Mario Run
-### Jogo Nostalgico.
+### Jogo Nostálgico
 
 A aplicação desse repositório utiliza HTML, CSS e JavaScript para criar um jogo inspirado no personagem Mario da Nintendo.
 Ao abrir o arquivo HTML, é criada uma página que exibe algumas imagens dos elementos do jogo, como a tubulação verde, as nuvens e o próprio Mario em sua clássica forma pixelada.
@@ -16,7 +16,7 @@ Essa aplicação é uma homenagem divertida e nostálgica a esse personagem tão
 
 ![portfolio image](https://github.com/Jof92/supermariorun.github.io/blob/main/img/super%20mario%20run.gif) <br><br><br>
  
-## <a href="https://github.com/Jof92/supermariorun.github.io/blob/main/index.html"> Acesse a página do Alkablog aqui</a> <br><br><br>
+## <a href="https://github.com/Jof92/supermariorun.github.io/blob/main/index.html"> Acesse a página do Super Mario Run aqui</a> <br><br><br>
 
 </div> 
 <div align="center">
